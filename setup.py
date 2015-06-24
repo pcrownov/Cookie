@@ -3,12 +3,6 @@ import sys
 from setuptools import setup
 
 install_requires = [
-	'string',
-	'cPickle',
-	'pickle',
-	're',
-	'warnings',
-	'time'
 ]
 
 tests_require = [
